@@ -1,5 +1,5 @@
 
-package GUI;
+package GUI_Administrador;
 
 public class Login extends javax.swing.JFrame {
 
